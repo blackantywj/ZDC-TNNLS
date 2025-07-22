@@ -1,5 +1,5 @@
 # ZDC-AAAI
-## ZDC: Understanding the Properties of Diffusion Model in the Space of Language Model Encodings
+## ZDC: Conditional Text Encoding Diffusion Prior with Unlikely Negative Distillation for Zero-shot Diverse Captioning
 
 ![Results](pic/fig1.png)
 
