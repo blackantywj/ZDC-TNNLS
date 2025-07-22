@@ -1,5 +1,5 @@
 # ZDC-AAAI
-## ZDC: Conditional Text Encoding Diffusion Prior with Unlikely Negative Distillation for Zero-shot Diverse Captioning
+## ZDC: Conditional Text Encoding Diffusion Prior with Unlikely Negative Distillation for Zero-shot Diverse Captioning (submmit to AAAI2026)
 
 ![Results](pic/fig1.png)
 
