@@ -1,11 +1,11 @@
 # ZDC-AAAI
 ## ZDC: Understanding the Properties of Diffusion Model in the Space of Language Model Encodings
 
-![Results](pic\fig1.png)
+![Results](pic/fig1.png)
 
 Abstract: *Zero‑shot captioning can generate descriptions for visual input without requiring human-annotated data. While autoregressive models with beam search achieve strong accuracy, they are prone to mode collapse because beam search tends to favor high-probability sequences, leading to generic captions with little variability. To address this issue, we propose a novel diffusion-based framework for zero-shot diverse captioning that separates the generation of diverse text encodings from an anti-collapse decoding process. First, we introduce a prompt-conditioned diffusion prior, which leverages the inherent stochasticity of the diffusion process to generate highly diverse text encodings. Second, we develop a multi-level negative training loss that steers the decoder away from trivial modes. Extensive experiments demonstrate that our diffusion-based framework, combined with negative teacher training, strikes a superior balance between captioning accuracy and output diversity. Our code is available at https://anonymous.4open.science/r/ZDC-AAAI-A9BB.*
 
-![Framework](pic\framework.png)
+![Framework](pic/framework.png)
 
 ## Requirements
 
